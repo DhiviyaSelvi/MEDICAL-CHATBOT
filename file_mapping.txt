@@ -1,0 +1,10 @@
+Anaemia.txt
+ASTHMA.txt
+COVID 19.txt
+Dengue Fever.txt
+DIABETES.txt
+Foodborne diseases.txt
+HYPERTENSION.txt
+INFLUENZA.txt
+malaria.txt
+TUBERCULOSIS.txt

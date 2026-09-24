@@ -1,0 +1,43 @@
+COVID 19
+Overview
+COVID-19 is an infectious disease caused by the SARS-CoV-2 virus. Most infected people experience mild to moderate respiratory illness and recover without special treatment, while some develop severe illness. Older adults and people with underlying medical conditions are at higher risk. COVID-19 spreads mainly through respiratory droplets and aerosols from infected individuals. Vaccination and preventive measures help reduce transmission.
+
+Symptoms
+COVID-19 symptoms usually appear 5–6 days after infection and may take up to 14 days.
+Common symptoms:
+* Fever
+* Cough
+* Tiredness
+* Loss of taste or smell
+Less common symptoms:
+* Sore throat
+* Headache
+* Body aches
+* Diarrhoea
+* Skin rash or discolouration of fingers or toes
+* Red or irritated eyes
+Serious symptoms:
+* Difficulty breathing
+* Chest pain
+* Confusion
+* Loss of speech or mobility
+Seek immediate medical care if serious symptoms occur.
+
+Causes
+COVID-19 is caused by the SARS-CoV-2 virus. It spreads from person to person through respiratory droplets or aerosols when an infected person coughs, sneezes, speaks, sings, or breathes. Infection can occur even from people without symptoms. Reinfection is possible due to waning immunity or virus mutations.
+
+Prevention
+* Get vaccinated when eligible
+* Maintain physical distancing
+* Wear a properly fitted mask
+* Wash hands regularly
+* Choose well-ventilated spaces
+* Cover mouth and nose when coughing or sneezing
+* Stay home and self-isolate if unwell
+
+Complications
+COVID-19 can cause severe respiratory illness and may worsen existing medical conditions. In serious cases, hospitalization or intensive care may be required, especially for high-risk individuals.
+
+Disclaimer
+Disclaimer: This chatbot provides general medical information for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.
+

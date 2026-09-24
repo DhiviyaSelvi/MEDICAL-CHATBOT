@@ -1,0 +1,53 @@
+Overview
+Malaria is a life-threatening disease caused by Plasmodium parasites and spread to humans through the bite of infected female Anopheles mosquitoes. It is mostly found in tropical regions and is preventable and curable. Malaria does not spread directly from person to person. Without treatment, severe malaria—especially caused by Plasmodium falciparum—can lead to death within 24 hours.
+
+Symptoms
+Early symptoms usually appear 10–15 days after a mosquito bite and include:
+* Fever
+* Chills
+* Headache
+* Fatigue
+Severe malaria symptoms include:
+* Extreme tiredness and confusion
+* Seizures or impaired consciousness
+* Difficulty breathing
+* Dark or bloody urine
+* Jaundice (yellowing of skin or eyes)
+* Abnormal bleeding
+Infants, young children, pregnant women, travelers, and people with HIV/AIDS are at higher risk of severe illness.
+
+Causes
+Malaria is caused by Plasmodium parasites. Five species infect humans:
+* P. falciparum (most deadly)
+* P. vivax
+* P. malariae
+* P. ovale
+* P. knowlesi
+Transmission occurs mainly through mosquito bites. Less common transmission includes:
+* Blood transfusions
+* Sharing contaminated needles
+* Mother to unborn child
+
+Prevention
+Malaria prevention focuses on avoiding mosquito bites and using preventive medicines:
+* Use insecticide-treated bed nets
+* Apply mosquito repellents (DEET, IR3535, Icaridin)
+* Wear protective clothing
+* Use window screens, coils, and vaporizers
+* Indoor residual spraying (IRS)
+* Take preventive medicines (chemoprophylaxis) before and after travel to endemic areas
+WHO-recommended malaria vaccines (RTS,S/AS01 and R21/Matrix-M) are being used in high-risk regions, especially for children.
+
+Complications
+Severe malaria can cause:
+* Cerebral malaria (brain swelling, seizures, coma)
+* Breathing problems due to fluid in lungs
+* Kidney or liver failure
+* Severe anemia
+* Low blood sugar (hypoglycemia)
+* Death if untreated
+Malaria during pregnancy can lead to premature birth or low-birth-weight babies.
+
+Disclaimer
+Disclaimer: This chatbot provides general medical information for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.
+
